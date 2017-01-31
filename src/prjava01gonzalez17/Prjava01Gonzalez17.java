@@ -29,7 +29,7 @@ public class Prjava01Gonzalez17 {
 
             bw.write("    <title>");bw.newLine();
 
-            bw.write("      Nova p&agrave;gina  web de cognom17");bw.newLine();
+            bw.write("      Nova p&agrave;gina  web de Gonzalez17");bw.newLine();
 
             bw.write("    </title>");bw.newLine();
 
@@ -37,7 +37,7 @@ public class Prjava01Gonzalez17 {
 
             bw.write("  <body>");bw.newLine();
 
-            bw.write("    Nova p&agrave;gina web de cognom17");bw.newLine();
+            bw.write("    Nova p&agrave;gina web de Gonzalez17");bw.newLine();
 
             bw.write("  </body>");bw.newLine();
 
